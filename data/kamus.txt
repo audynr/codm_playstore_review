@@ -7744,6 +7744,7 @@ gambuh
 gambus
 gambut
 gambyong
+game
 gamelan
 gamet
 gametangium
@@ -29921,3 +29922,11 @@ zulu
 zurafah
 zuriah
 zus
+adil
+update
+ada
+bagus
+jelek
+belum
+sudah
+udah
