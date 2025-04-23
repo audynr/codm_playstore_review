@@ -5,12 +5,13 @@ Proyek ini bertujuan untuk memprediksi data teks menggunakan beberapa model mach
 
 ## 🗂️ Struktur Proyek
 
-
+```
 ├── data/                 # Folder output hasil scraping
 ├── scrapping_data.ipynb  # Notebook untuk scraping data dari sumber
 ├── main.ipynb            # Notebook utama untuk preprocessing dan prediksi
 ├── requirements.txt      # File daftar library yang dibutuhkan
 └── README.md             # Dokumentasi proyek
+```
 
 ## 📌 Alur Penggunaan
 
